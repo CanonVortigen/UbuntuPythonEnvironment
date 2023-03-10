@@ -53,8 +53,11 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 # plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 # Font optional (https://github.com/pdf/ubuntu-mono-powerline-ttf)
+
 mkdir -p ~/.fonts
+
 git clone https://github.com/pdf/ubuntu-mono-powerline-ttf.git ~/.fonts/ubuntu-mono-powerline-ttf
+
 fc-cache -vf
 
 # REBOOT!!!!!!!!!!!!!!!!!!!!!
