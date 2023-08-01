@@ -1,6 +1,6 @@
-# EnvironmentPythonUbuntu
+# UbuntuPythonEnvironment
 
-# Installation Environment Ubuntu Python / Pypenv
+# Installation  Ubuntu Python Environment / Pypenv
 
 #!/bin/bash
 
