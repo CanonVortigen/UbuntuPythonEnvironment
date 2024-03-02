@@ -1,6 +1,8 @@
-<h1 class align='center'>Ubuntu Python Environment Setup</h1>
+<div class align='center>
 
-<h3 class align='center'>Installation Ubuntu Python Environment / Pypenv</h3>   
+<h1>Ubuntu Python Environment Setup</h1>
+
+<h3>Installation Ubuntu Python Environment / Pypenv</h3>   
 
 <p>/bin/bash</p>
 
@@ -75,3 +77,7 @@ curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer 
 <p>fc-cache -vf</p>
 
 <h1>REBOOT!!!!!!!!!!!!!!!!!!!!!</h1>
+
+
+</div>
+
