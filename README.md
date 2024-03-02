@@ -1,5 +1,3 @@
-<div class align='center>
-
 <h1>Ubuntu Python Environment Setup</h1>
 
 <h3>Installation Ubuntu Python Environment / Pypenv</h3>   
@@ -79,5 +77,5 @@ curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer 
 <h1>REBOOT!!!!!!!!!!!!!!!!!!!!!</h1>
 
 
-</div>
+
 
